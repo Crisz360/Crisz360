@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Cristhian Escamilla</h1>
+<h1 align="center" style="color: purple; text-shadow: 1px 1px 2px black;">👋 ¡Hola! Soy Cristhian Escamilla</h1>
 <h3 align="center">Desarrollador Full Stack | Apasionado por la tecnología y la innovación</h3>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&lines=APIs+REST+%7C+Diseño+Responsivo+%7C+Buenas+Prácticas" alt="Stack 5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&lines=APIs+REST+%7C+Diseño+%7C+Buenas+Prácticas" alt="Stack 5" />
 </p>
 
 ---
@@ -39,11 +39,13 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
 
 #### Frameworks & Librerías
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=fff)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=fff)
 
 #### Bases de Datos
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
@@ -101,18 +103,23 @@
 
 ### 💼 Proyectos destacados
 
-🔹 [Sistema de atención ciudadana](#)
-🔹 [Sistema menú de dependencias](#)
-🔹 [Nuevo portal gubernamental qroo.gob.mx](#)
-🔹 [Nueva imagen de páginas de gobierno](#)
-🔹 [Sistema de pedidos](#)
+<p>
+  <span style="margin-right: 20px; color: purple; text-shadow: 1px 1px 2px black;">🔹 Sistema de atención ciudadana</span>
+  <span style="margin-right: 20px; color: purple; text-shadow: 1px 1px 2px black;">🔹 Sistema menú de dependencias</span>
+  <span style="margin-right: 20px; color: purple; text-shadow: 1px 1px 2px black;">🔹 Nuevo portal gubernamental qroo.gob.mx</span>
+  <span style="margin-right: 20px; color: purple; text-shadow: 1px 1px 2px black;">🔹 Nueva imagen de páginas de gobierno</span>
+  <span>🔹 Sistema de pedidos</span>
+</p>
 
 ### 💼 Proyectos gestionados y en mantenimiento
-🔹 [SARH Sistema de administración de recursos humanos](#)
-🔹 [Mi portal personal](#)
-🔹 [Sistema de contratos](#)
-🔹 [Sistema de NomiPAQ](#)
-🔹 [Sistema de puestos](#)
+
+<p>
+  <span style="margin-right: 20px; color: purple; text-shadow: 1px 1px 2px black;">🔹 SARH Sistema de administración de recursos humanos</span>
+  <span style="margin-right: 20px; color: purple; text-shadow: 1px 1px 2px black;">🔹 Mi portal personal</span>
+  <span style="margin-right: 20px; color: purple; text-shadow: 1px 1px 2px black;">🔹 Sistema de contratos</span>
+  <span style="margin-right: 20px; color: purple; text-shadow: 1px 1px 2px black;">🔹 Sistema de NomiPAQ</span>
+  <span style="margin-right: 20px; color: purple; text-shadow: 1px 1px 2px black;">🔹 Sistema de puestos</span>
+</p>
 ```
 ⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧
 ⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷
