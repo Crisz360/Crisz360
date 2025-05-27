@@ -120,6 +120,7 @@
   <span style="margin-right: 20px; color: purple; text-shadow: 1px 1px 2px black;">🔹 Sistema de NomiPAQ</span>
   <span style="margin-right: 20px; color: purple; text-shadow: 1px 1px 2px black;">🔹 Sistema de puestos</span>
 </p>
+
 ```
 ⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧
 ⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷
