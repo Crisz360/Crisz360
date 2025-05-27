@@ -2,9 +2,8 @@
 <h3 align="center">Desarrollador Full Stack | Apasionado por la tecnología y la innovación</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&lines=Laravel+%7C+Angular+%7C+Tailwind+CSS;JavaScript+%7C+PHP+%7C+MySQL+%7C+Oracle;APIs+REST+%7C+Diseño+Responsivo+%7C+Buenas+Pr%C3%A1cticas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&lines=Laravel+%7C+Angular+%7C+Tailwind+CSS+%7C+Bootstrap+%7C+HTML+%7C+CSS;JavaScript+%7C+PHP+%7C+Java+%7C+MySQL+%7C+Oracle+%7C+SQL+Server;APIs+REST+%7C+Diseño+Responsivo+%7C+Buenas+Prácticas" alt="Typing SVG" />
 </p>
-
 ---
 
 ### 🚀 Sobre mí
