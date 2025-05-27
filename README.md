@@ -2,8 +2,25 @@
 <h3 align="center">Desarrollador Full Stack | Apasionado por la tecnología y la innovación</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&lines=Laravel+%7C+Angular+%7C+Tailwind+CSS+%7C+Bootstrap+%7C+HTML+%7C+CSS;JavaScript+%7C+PHP+%7C+Java+%7C+MySQL+%7C+Oracle+%7C+SQL+Server;APIs+REST+%7C+Diseño+Responsivo+%7C+Buenas+Prácticas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&lines=Laravel+%7C+Angular+%7C+Bootstrap" alt="Stack 1" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&lines=Tailwind+CSS+%7C+HTML+%7C+CSS" alt="Stack 2" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&lines=JavaScript+%7C+PHP+%7C+Java" alt="Stack 3" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&lines=MySQL+%7C+Oracle+%7C+SQL+Server" alt="Stack 4" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&lines=APIs+REST+%7C+Diseño+Responsivo+%7C+Buenas+Prácticas" alt="Stack 5" />
+</p>
+
 ---
 
 ### 🚀 Sobre mí
@@ -96,7 +113,7 @@
 🔹 [Sistema de contratos](#)
 🔹 [Sistema de NomiPAQ](#)
 🔹 [Sistema de puestos](#)
-
+```
 ⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧
 ⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷
  ⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆
@@ -105,7 +122,7 @@
 ⠈⠉⠛⠻⠿⠛⠛⢛⣩⣭⣛⢿⣿⣿⣿⣿⣿⣷⣄
 ⠀⣾⣿⣦⠀⠀⠀⠀⠀⠉⠙⢷⣽⣿⣿⣿⣿⡇⢉⡀
 ⠀⣿⣿⣿⣷⣄⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⡇⣾⡇
-⠀⣿⣿⣿⣿⣿⣿⣷⣶⣿⣿⣿⣿⣿⣿⣿⠟⣀⣫ ⠀⠀
+⠀⣿⣿⣿⣿⣿⣿⣷⣶⣿⣿⣿⣿⣿⣿⣿⠟⣀⣫ 
 ⠀⠿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠏⠘⠿⠃
 ⠀⠀⠀⠘⢿⣆⢻⣿⣿⣿⣿⣿⣿⣿⡇⡀⠀
 ⠀⠀⠀⣀⣠⣿⣷⣝⠿⠟⠋⠉⠹⡟⣰⡇
@@ -113,5 +130,6 @@
 ⠀⠙⠋⠈⠙⠿⠿⠟⣿⠋⠀⠀⠀⢰⡇
 ⠀⠐⠒⠒⠒⠲⣿⡆⠀⠀⠀⠀⠀⠈
 ⠀⠀⠀⠀⠀⠀⠀⠉
+```
 
-<h1 align="center">♡🥛🍪° •𝑪ᵣἶ𝖘ᶻ③𝟞⁰•°🍪🥛♡</h1>
+<h1 align="center" style="color: purple; text-shadow: 1px 1px 2px black;">♡🥛🍪° •𝑪ᵣἶ𝖘ᶻ③𝟞⁰•°🍪🥛♡</h1>
