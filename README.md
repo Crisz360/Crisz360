@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&lines=APIs+REST+%7C+Diseño+%7C+Buenas+Prácticas" alt="Stack 5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&lines=APIs+REST+%7C+Diseño+%7C+Buenas+Prá..." alt="Stack 5" />
 </p>
 
 ---
